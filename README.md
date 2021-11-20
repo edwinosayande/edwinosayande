@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...javaScript
 - 📫 How to reach me: ...https://edwinosayande.github.io/cv/
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I can Laughing
+- ⚡ Fun fact: ...I can Laugh
