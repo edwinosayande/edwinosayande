@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**edwinosayande/edwinosayande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Dear 👋
 
 Here are some ideas to get you started:
 
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...javaScript
 - 📫 How to reach me: ...https://edwinosayande.github.io/cv/
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I love Laughing
--->
+- ⚡ Fun fact: ...I can Laughing
